@@ -8,7 +8,6 @@
 - **Location Search**: Search by city name to get weather details.
 - **API Integration**: Uses the OpenWeather API for accurate and up-to-date weather information.
 - **Forecast**: Displays additional weather forecast data for the upcoming days.
-- **User-friendly Interface**: Clean, responsive design for both desktop and mobile views.
 - **Geolocation Support**: Detect your location and show the weather for your current area.
 
 ## Technologies Used
